@@ -1,0 +1,98 @@
+https://www.ndtv.com/ - Center Bias - Mostly Factual
+https://timesofindia.indiatimes.com/ - Left Center Bias - High
+https://www.thehindu.com/ - Extreme Bias - Low
+https://indianexpress.com/ - Left Center Bias - High
+https://www.news18.com/ - Left Center Bias - High
+https://www.indiatoday.in/ - Left Center Bias - High
+https://www.hindustantimes.com/ - Center Bias - Mostly Factual
+https://news.abplive.com/ - Center Bias - Mostly Factual
+https://www.firstpost.com/ - Left Center Bias - High
+https://economictimes.indiatimes.com/ - Center Bias - Mostly Factual
+https://www.dnaindia.com/ - Left Center Bias - High
+https://scroll.in/ - Left Center Bias - High
+https://www.telegraphindia.com/ - Left Center Bias - High
+https://www.thequint.com/ - Right Center Bias - Mixed
+https://www.livemint.com/ - Left Center Bias - High
+https://www.dnaindia.com/ - Left Center Bias - High
+https://www.newindianexpress.com/ - Left Center Bias - High
+https://www.deccanherald.com/ - Left Center Bias - High
+https://www.theweek.in/ - Left Center Bias - High
+https://www.business-standard.com/ - Least Biased - High
+https://www.financialexpress.com/ - Least Biased - High
+https://www.newsx.com/ - Least Biased - High
+https://www.thestatesman.com/ - Least Biased - High
+https://www.thehansindia.com/ - Center Bias - Mostly Factual
+https://www.outlookindia.com/ - Least Bias - High
+https://www.sentinelassam.com/ - Left Bias - Mostly Factual
+https://www.mid-day.com/ - Left Bias - Mostly Factual
+https://www.freepressjournal.in/ - Left Bias - Mostly Factual
+https://www.dailypioneer.com/ - Left Bias - Mostly Factual
+https://www.siasat.com/ - Right Center Bias - Mixed
+https://www.thehansindia.com/ - Right Center Bias - Mixed
+https://www.greaterkashmir.com/ - Right Center Bias - Mixed
+https://arunachaltimes.in/ - Left Center Bias - High
+https://www.nagalandpost.com/ - Left Center Bias - High
+https://www.assamtribune.com/ - Left Center Bias - High
+https://www.thekashmirmonitor.net/ - Left Center Bias - High
+https://www.meghalayatimes.info/ - Left Center Bias - High
+https://www.orissapost.com/ - Center Bias - Mostly Factual
+https://www.dailyexcelsior.com/ - Center Bias - Mostly Factual
+https://easternmirrornagaland.com/ - Center Bias - Mostly Factual
+https://punjabnewsexpress.com/ - Center Bias - Mostly Factual
+https://theshillongtimes.com/ - Center Bias - Mostly Factual
+https://www.thesangaiexpress.com/ - Right Center Bias - Mixed
+https://www.dnaindia.com/ - Right Center Bias - Mixed
+https://www.assamtribune.com/ - Center Bias - Mostly Factual
+https://echoofindia.com/ - Least Biased - High
+https://nagalandpage.com/ - Left Center Bias - High
+https://www.sikkimchronicle.com/ - Left Bias - Mixed
+https://www.navhindtimes.in/ - Left Bias - Mixed
+https://thehill.com/ - Center Bias - Mostly Factual
+https://www.bbc.com/news - Left Center Bias - High
+https://www.nytimes.com - Left Center Bias - High
+https://www.theguardian.com - Left Center Bias - High
+https://www.reuters.com - Least Biased - High
+https://www.aljazeera.com - Left Center Bias - High
+https://www.npr.org - Left Center Bias - High
+https://www.foxnews.com - Extreme Bias - Low
+https://www.cnbc.com - Left Center Bias - High
+https://www.bloomberg.com  - Left Center Bias - High
+https://www.usatoday.com - Left Center Bias - High
+https://www.washingtonpost.com - Left Center Bias - High
+https://www.politico.com - Left Center Bias - High
+https://apnews.com - Left Center Bias - High
+https://www.wsj.com - Right Center Bias - Mixed
+https://abcnews.go.com - Left Center Bias - High
+https://www.msnbc.com - Left Bias - mixed
+https://www.cbsnews.com - Left Center Bias - High
+https://www.reuters.com - Least Biased - High
+https://www.huffpost.com - Left Bias - Mixed
+https://techcrunch.com/ - Left Center Bias - High
+https://mashable.com/ - Left Bias - Mostly Factual
+https://www.theverge.com/ - Left Center Bias - High
+https://www.cnet.com/ - Least Bias - High
+https://www.wired.com/ - Left Center Bias - High
+https://gizmodo.com/ - Left Bias - Mostly Factual
+https://www.socialmediatoday.com/ - Least Bias - High
+https://www.adweek.com/ - Least Bias - High
+https://martech.org/ - Extreme Bias - Low
+https://digiday.com/ - Left Bias - High
+https://www.vox.com/recode - Least Bias - High
+https://adage.com/ - Extreme Bias - Low
+https://www.socialmediaexaminer.com/ - Least Bias - High
+https://venturebeat.com/ - Extreme Bias - Low
+https://www.digitaltrends.com/ - Least Bias - High
+https://socialmediaexplorer.com/ - Extreme Bias - Low
+https://socialmediaweek.org/blog/2016/03/blog-centered-content-strategy-smart-idea/ - Right Center Bias - Mixed
+https://www.razorsocial.com/blog/ - Least Bias - High
+https://www.jeffbullas.com/blog/ - Least Bias - High
+https://www.reuters.com/ - Center Bias - Mostly Factual
+https://www.theguardian.com.au/ - Left Center Bias - Mostly Factual
+https://www.npr.org/ - Left-Center Bias - Mixed
+https://www.politico.com/ - Center Bias - Mixed 
+https://www.abc.net.au/ - Center Bias - Mostly Factual
+https://www.cbsnews.com/ - Center Bias - Mostly Factual
+https://www.nbcnews.com/ - Center Bias - Mostly Factual
+https://www.usatoday.com/ - Center Bias - Mostly Factual
+
+
